@@ -6,7 +6,7 @@
 import requests
 import re
 
-
+print("Hello World")
 lists=[]
 files = open('hosts_ok.txt','w+')
 #读取IP地址
